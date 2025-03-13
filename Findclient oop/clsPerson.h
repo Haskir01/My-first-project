@@ -1,0 +1,53 @@
+#pragma once
+#include<iostream>
+#include<string>
+using namespace std;
+class clsPerson
+{
+private:
+	string _FirstName;
+	string _LastName;
+	string _Email;
+	string _Phone;
+public:
+	clsPerson(string first, string last, string email, string phone) {
+		_FirstName = first;
+		_LastName = last;
+		_Email = email;
+		_Phone = phone;
+
+	}
+	void SetFirstName(string first) {
+		_FirstName = first;
+	}
+	string GetFirstName() {
+		return _FirstName;
+	}
+	__declspec(property(get = GetFirstName, put = SetFirstName)) string FirstName;
+	void SetLastName(string last) {
+		_LastName = last;
+	}
+	string GetLastName() {
+		return _LastName;
+	}
+	__declspec(property(get = GetLastName, put = SetLastName))string LastName;
+	string GetFullName() {
+		return _FirstName + " " + _LastName;
+	}
+	void SetEmail(string email) {
+		_Email = email;
+	}
+	string GetEmail() {
+		return _Email;
+	}
+	__declspec(property(get = GetEmail, put = SetEmail))string Email;
+	void SetPhone(string phone) {
+		_Phone = phone;
+	}
+	string GetPhone() {
+		return _Phone;
+	}
+	__declspec(property(get = GetPhone, put = SetPhone))string Phone;
+
+};
+

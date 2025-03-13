@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alhaskir\\Downloads\\Neuer Ordner\\BankVerwaltung-20250312T121047Z-001\\BankVerwaltung\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{008CF0AB-C084-4EF1-A4F1-2496D3FA0694}|Findclient oop\\Findclient oop.vcxproj|C:\\Users\\alhaskir\\Downloads\\Neuer Ordner\\BankVerwaltung-20250312T121047Z-001\\BankVerwaltung\\Findclient oop\\BankVerwaltung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{008CF0AB-C084-4EF1-A4F1-2496D3FA0694}|Findclient oop\\Findclient oop.vcxproj|solutionrelative:Findclient oop\\BankVerwaltung.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{008CF0AB-C084-4EF1-A4F1-2496D3FA0694}|Findclient oop\\Findclient oop.vcxproj|C:\\Users\\alhaskir\\Downloads\\Neuer Ordner\\BankVerwaltung-20250312T121047Z-001\\BankVerwaltung\\Findclient oop\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{008CF0AB-C084-4EF1-A4F1-2496D3FA0694}|Findclient oop\\Findclient oop.vcxproj|solutionrelative:Findclient oop\\clsCurrency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsCurrency.h",
+              "DocumentMoniker": "C:\\Users\\alhaskir\\Downloads\\Neuer Ordner\\BankVerwaltung-20250312T121047Z-001\\BankVerwaltung\\Findclient oop\\clsCurrency.h",
+              "RelativeDocumentMoniker": "Findclient oop\\clsCurrency.h",
+              "ToolTip": "C:\\Users\\alhaskir\\Downloads\\Neuer Ordner\\BankVerwaltung-20250312T121047Z-001\\BankVerwaltung\\Findclient oop\\clsCurrency.h",
+              "RelativeToolTip": "Findclient oop\\clsCurrency.h",
+              "ViewState": "AgIAADsAAAAAAAAAAAAjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-05T15:56:22.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankVerwaltung.cpp",
+              "DocumentMoniker": "C:\\Users\\alhaskir\\Downloads\\Neuer Ordner\\BankVerwaltung-20250312T121047Z-001\\BankVerwaltung\\Findclient oop\\BankVerwaltung.cpp",
+              "RelativeDocumentMoniker": "Findclient oop\\BankVerwaltung.cpp",
+              "ToolTip": "C:\\Users\\alhaskir\\Downloads\\Neuer Ordner\\BankVerwaltung-20250312T121047Z-001\\BankVerwaltung\\Findclient oop\\BankVerwaltung.cpp",
+              "RelativeToolTip": "Findclient oop\\BankVerwaltung.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-28T06:57:09.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

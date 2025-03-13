@@ -1,0 +1,80 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Das Zwischenverzeichnis (x64\Debug\) enthält freigegebene Dateien aus einem anderen Projekt (Findclient oop.vcxproj). Dies kann zu einem falschen Bereinigungs- und Neuerstellungsverhalten führen.
+  BankVerwaltung.cpp
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsString.h(42,25): warning C4267: "return": Konvertierung von "size_t" nach "short", Datenverlust möglich
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsString.h(47,29): warning C4267: "return": Konvertierung von "size_t" nach "short", Datenverlust möglich
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsString.h(59,30): warning C4267: "=": Konvertierung von "size_t" nach "short", Datenverlust möglich
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsString.h(196,29): warning C4267: "return": Konvertierung von "size_t" nach "short", Datenverlust möglich
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsString.h(327,30): warning C4267: "=": Konvertierung von "size_t" nach "short", Datenverlust möglich
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsString.h(375,22): warning C4267: "Initialisierung": Konvertierung von "size_t" nach "short", Datenverlust möglich
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsInputValidate.h(112,16): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsInputValidate.h(116,26): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsBankClient.h(119,12): warning C4240: Nicht dem Standard entsprechende Erweiterung: Zugriff auf "clsBankClient::stTrnsferLogRecord" nun als "public" definiert, wurde zuvor als "private" definiert
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+      C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsBankClient.h(103,12):
+      Siehe Deklaration von "clsBankClient::stTrnsferLogRecord"
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsBankClient.h(22,150): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsBankClient.h(111,39): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsBankClient.h(112,48): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsBankClient.h(113,49): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsBankClient.h(258,29): warning C4244: "+=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsBankClient.h(269,33): warning C4244: "-=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsAddClientScreen.h(28,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsUpdateClientScreen.h(45,66): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsTransferScreen.h(42,51): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsTransferScreen.h(47,53): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsManageUsers.h(21,22): warning C4244: "Initialisierung": Konvertierung von "double" in "short", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsCurrency.h(31,76): warning C4244: "Argument": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsFindCurrencyScreen.h(33,17): warning C4129: 'F': Nicht erkannte Folge von Escapesequenz.
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsUpdateCurrencyRateScreen.h(25,52): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsCurrencyCalculaterScreen.h(17,51): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  (Quelldatei „BankVerwaltung.cpp“ wird kompiliert)
+  
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsBankClient.h(233,1): warning C4715: "clsBankClient::Save": Nicht alle Codepfade geben einen Wert zurück.
+C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\Findclient oop\clsUser.h(321,1): warning C4715: "clsUser::Save": Nicht alle Codepfade geben einen Wert zurück.
+  LINK : C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\x64\Debug\BankVerwaltung.exe wurde nicht gefunden oder beim letzten inkrementellen Linkvorgang nicht erstellt; vollständiger Link wird durchgeführt.
+  Findclient oop.vcxproj -> C:\Users\alhaskir\Downloads\Neuer Ordner\BankVerwaltung-20250312T121047Z-001\BankVerwaltung\x64\Debug\BankVerwaltung.exe
